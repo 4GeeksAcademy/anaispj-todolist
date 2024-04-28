@@ -18,7 +18,7 @@ export const TodoList = () => {
     }
 
     return (
-        <div className="container col-10 col-sm-8 col-md-6 bg-light rounded">
+        <div className="container col-10 col-sm-8 col-md-6 bg-light rounded mainBody">
             <h3 className="text-dark">Mi listado de tareas</h3>
             <div className="mt-3">
 

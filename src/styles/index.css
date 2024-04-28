@@ -5,3 +5,7 @@
 .hidden-icon:hover > span {
     visibility: visible;
 }
+
+.mainBody {
+    padding: 15px;
+}
